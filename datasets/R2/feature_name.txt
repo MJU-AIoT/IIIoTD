@@ -1,0 +1,1 @@
+door,power,activity,temperature,humanity,light,air-conditioner_24E124122B051261,illumination_24E124145B372151
