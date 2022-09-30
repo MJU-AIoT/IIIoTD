@@ -1,1 +1,1 @@
-door,power,activity,temperature,humanity,light,air-conditioner_24E124122B055121,illumination_24E124147B374032,illumination_24E124147B373279,curtain_5,curtain_6,curtain_4,curtain_3,curtain_1
+door,power,activity,temperature,humanity,light,air-conditioner_24E124122B055121,air-conditioner_24E124122B056757,illumination_24E124147B374032,curtain_1,curtain_3,curtain_2,illumination_24E124147B373279,curtain_5,curtain_6,curtain_4
