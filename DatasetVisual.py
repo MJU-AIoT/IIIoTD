@@ -1,7 +1,7 @@
 '''
 Author: Huaisheng Ye
 Create time: 2022年8月24日12:21:18
-Edit Time: 
+Edit Time: 2022年10月1日23:08:39
 Description: IIIoTD Visualization Tool.
 GitHub Url: https://github.com/MJU-AIoT/IIIoTD
 '''
